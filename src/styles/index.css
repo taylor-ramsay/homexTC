@@ -1,0 +1,45 @@
+body {
+    font-family: 'Questrial', sans-serif;
+    background-color: #070F15;
+}
+
+h1 {
+    color: white;
+}
+
+.form-control {
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    transition: none;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border: #00F1C4 5px solid;
+}
+
+.form-control-lg {
+    border-radius: 0px;
+}
+
+.dropdown-menu {
+    border-radius: 0px;
+    border: none;
+    padding: 0px;
+}
+
+.dropdown-item:active {
+    background-color: #00F1C4;
+}
+
+.dropdown-item:focus {
+    background-color: #00F1C4;
+    outline: none !important;
+    font-size: 20px;
+}
+
+a:focus{
+    background-color: #f5af01;
+    color: #000000;
+}

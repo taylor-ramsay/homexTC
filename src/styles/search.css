@@ -1,0 +1,15 @@
+.search-container{
+  position: relative;
+}
+.search-dropdown{
+  position: absolute;
+  width: 100%;
+}
+
+.rule-divider{
+  height: 10px;
+  width: 60px;
+  background-color: #00F1C4;
+  margin-bottom: 20px;
+}
+
