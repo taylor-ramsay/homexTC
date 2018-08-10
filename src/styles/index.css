@@ -39,7 +39,9 @@ h1 {
     font-size: 20px;
 }
 
-a:focus{
-    background-color: #f5af01;
-    color: #000000;
-}
+.rule-divider{
+    height: 10px;
+    width: 60px;
+    background-color: #00F1C4;
+    margin-bottom: 20px;
+  }
